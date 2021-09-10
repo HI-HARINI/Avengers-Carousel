@@ -1,0 +1,11 @@
+body{
+text-align:center;
+}
+#img1{
+    width: 100%;
+    margin-top: 10px;
+}
+#img2{
+    margin-top: 20px;
+    width:300px;
+}
